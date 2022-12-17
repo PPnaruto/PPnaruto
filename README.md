@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React front end application**
 
-- 👨‍💻 All of my projects are available at [https://extraordinary-elf-6ff07f.netlify.app/](https://extraordinary-elf-6ff07f.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://magenta-sunshine-808973.netlify.app/](https://magenta-sunshine-808973.netlify.app/)
 
 - 💬 Ask me about **Java, JavaScript, HTML and CSS**
 
