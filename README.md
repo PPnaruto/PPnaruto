@@ -4,7 +4,7 @@
 - 🔭 I’m full stack web developer **and I love Programming and traveling.**
 - 🌱 I am currently Learning **Full Stack web development**
 - 👯 I’m looking to collaborate on **real products while working for an organization.**
-- 👨‍💻 All of my projects are available at [https://extraordinary-elf-6ff07f.netlify.app/](https://extraordinary-elf-6ff07f.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://pratikpatil-portfolio.netlify.app/](https://pratikpatil-portfolio.netlify.app/)
 - 💬 Ask me about **Java, JavaScript, HTML, CSS, React, Redux, Nodejs or MongoDB, I would love to help.**
 - 📫 How to reach me **pratik.35.patil@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1yqcCzvmtc6FkxQWxpBPv0khvxbTd-fNu/view?usp=sharing](https://drive.google.com/file/d/1yqcCzvmtc6FkxQWxpBPv0khvxbTd-fNu/view?usp=sharing)
