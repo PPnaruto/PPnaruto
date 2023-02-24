@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://pratikpatil-portfolio.netlify.app/](https://pratikpatil-portfolio.netlify.app/)
 - 💬 Ask me about **Java, JavaScript, HTML, CSS, React, Redux, Nodejs or MongoDB, I would love to help.**
 - 📫 How to reach me **pratik.35.patil@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yqcCzvmtc6FkxQWxpBPv0khvxbTd-fNu/view?usp=sharing](https://drive.google.com/file/d/1yqcCzvmtc6FkxQWxpBPv0khvxbTd-fNu/view?usp=sharing)
+- 📄 Know about my experiences(https://drive.google.com/file/d/1oWaiBg0wuc44TIcrsXIP1AFz7UTgtaoz/view?usp=share_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
